@@ -22,6 +22,7 @@ _Create a logs/server folder in the project root, alongside the backend and fron
 
 ###### uncomment volumes in webservice in backend/docker-compose.yml file
 
+http://localhost:3000/projects
 
 ![img.png](img.png)
 
