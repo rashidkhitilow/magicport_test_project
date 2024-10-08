@@ -14,13 +14,13 @@
 
 _Create a mysql folder in the project root, alongside the backend and frontend folders._
 
-###### uncomment volumes in mysql in docker-compose.yml file
+###### uncomment volumes in mysql in backend/docker-compose.yml file
 
 **Want to see nginx logs**
 
 _Create a logs/server folder in the project root, alongside the backend and frontend folders._
 
-###### uncomment volumes in webservice in docker-compose.yml file
+###### uncomment volumes in webservice in backend/docker-compose.yml file
 
 
 ![img.png](img.png)
