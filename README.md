@@ -6,7 +6,7 @@
 
 `docker-compose up --build `
 
-`docker-compose run --rm composer`
+`docker-compose run --rm composer update`
 
 `docker-compose run --rm artisan migrate:fresh --seed`
 
